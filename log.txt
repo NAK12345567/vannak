@@ -1,0 +1,18 @@
+Riel: 10000 | English: Ten riel thousand riel | Khmer: មួយម៉ឺន រៀល | USD: 2.50 $
+Riel: 20000 | English: Twenty riel thousand riel | Khmer: ពីរម៉ឺន រៀល | USD: 5.00 $
+Riel: 12500 | English: Twelve riel thousand five hundred riel | Khmer: មួយម៉ឺន ពីរពាន់ ប្រាំរយ រៀល | USD: 3.13 $
+Riel: 666 | English: Six hundred sixty six riel | Khmer: ប្រាំមួយរយ ប្រាំមួយដប់ ប្រាំមួយរាយ រៀល | USD: 0.17 $
+Riel: 3000 | English: Three riel thousand riel | Khmer: បីពាន់ រៀល | USD: 0.75 $
+Riel: 2500 | English: Two riel thousand five hundred riel | Khmer: ពីរពាន់ ប្រាំរយ រៀល | USD: 0.63 $
+Riel: 12345678 | English: Million Three hundred forty five riel thousand six hundred seventy eight riel | Khmer: មួយ ពីរលាន បីសែន បួនម៉ឺន ប្រាំពាន់ ប្រាំមួយរយ ប្រាំពីរដប់ ប្រាំបីរាយ រៀល | USD: 3,086.42 $
+Riel: 123456789 | English: Million Four hundred fifty six riel thousand seven hundred eighty nine riel | Khmer: មួយ ពីរ បីលាន បួនសែន ប្រាំម៉ឺន ប្រាំមួយពាន់ ប្រាំពីររយ ប្រាំបីដប់ ប្រាំបួនរាយ រៀល | USD: 30,864.20 $
+Riel: 1234567 | English: One million Two hundred thirty four riel thousand five hundred sixty seven riel | Khmer: មួយលាន ពីរសែន បីម៉ឺន បួនពាន់ ប្រាំរយ ប្រាំមួយដប់ ប្រាំពីររាយ រៀល | USD: 308.64 $
+Riel: 12345678 | English: One million two million Three hundred forty five riel thousand six hundred seventy eight riel | Khmer: មួយ ពីរលាន បីសែន បួនម៉ឺន ប្រាំពាន់ ប្រាំមួយរយ ប្រាំពីរដប់ ប្រាំបីរាយ រៀល | USD: 3,086.42 $
+Riel: 12345678 | English: Oneone million two million Three hundred forty five riel thousand six hundred seventy eight riel | Khmer: មួយ ពីរលាន បីសែន បួនម៉ឺន ប្រាំពាន់ ប្រាំមួយរយ ប្រាំពីរដប់ ប្រាំបីរាយ រៀល | USD: 3,086.42 $
+Riel: 12345678 | English: Oneone million two million Three hundred forty five riel thousand six hundred seventy eight riel | Khmer: មួយមួយលាន ពីរលាន បីសែន បួនម៉ឺន ប្រាំពាន់ ប្រាំមួយរយ ប្រាំពីរដប់ ប្រាំបីរាយ រៀល | USD: 3,086.42 $
+Riel: 123456789 | English: One million three million Four hundred fifty six riel thousand seven hundred eighty nine riel | Khmer: មួយ ពីរមួយលាន បីលាន បួនសែន ប្រាំម៉ឺន ប្រាំមួយពាន់ ប្រាំពីររយ ប្រាំបីដប់ ប្រាំបួនរាយ រៀល | USD: 30,864.20 $
+Riel: 12345678 | English: Oneone million two million Three hundred forty five riel thousand six hundred seventy eight riel | Khmer: មួយមួយលាន ពីរលាន បីសែន បួនម៉ឺន ប្រាំពាន់ ប្រាំមួយរយ ប្រាំពីរដប់ ប្រាំបីរាយ រៀល | USD: 3,086.42 $
+Riel: 224496 | English: Two hundred twenty four riel thousand four hundred ninety six riel | Khmer: ពីរសែន ពីរម៉ឺន បួនពាន់ បួនរយ ប្រាំបួនដប់ ប្រាំមួយរាយ រៀល | USD: 56.12 $
+Riel: 257847 | English: Two hundred fifty seven riel thousand eight hundred forty seven riel | Khmer: ពីរសែន ប្រាំម៉ឺន ប្រាំពីរពាន់ ប្រាំបីរយ បួនដប់ ប្រាំពីររាយ រៀល | USD: 64.46 $
+Riel: 12134567 | English: Twelve riel million One hundred thirty four riel thousand five hundred sixty seven riel | Khmer: មួយ ពីរលាន មួយសែន បីម៉ឺន បួនពាន់ ប្រាំរយ ប្រាំមួយដប់ ប្រាំពីរ រៀល | USD: 3,033.64 $
+Riel: 1213456 | English: One riel million Two hundred thirteen riel thousand four hundred fifty six riel | Khmer: មួយលាន ពីរសែន មួយម៉ឺន បីពាន់ បួនរយ ប្រាំដប់ ប្រាំមួយ រៀល | USD: 303.36 $
