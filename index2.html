@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="km">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>របៀបប្រើប្រាស់ Gmail Send As</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@400;700&display=swap');
+
+    body {
+      font-family: 'Kantumruy Pro', 'Khmer OS Siemreap', sans-serif;
+      background: linear-gradient(to right, #f3f4f6, #e5e7eb);
+      margin: 0;
+      padding: 20px;
+      color: #1f2937;
+    }
+
+    .container {
+      max-width: 950px;
+      margin: auto;
+      background: #fff;
+      padding: 40px;
+      border-radius: 20px;
+      box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+      animation: fadeIn 1s ease;
+    }
+
+    h1 {
+      text-align: center;
+      color:#08acb8;
+      font-size: 2em;
+      margin-bottom: 40px;
+    }
+
+    .step {
+      background: #fefefe;
+      border: 1px solid #e5e7eb;
+      border-left: 8px solid #08acb8;
+      padding: 20px 25px;
+      margin-bottom: 25px;
+      border-radius: 10px;
+      transition: transform 0.3s ease;
+    }
+
+    .step:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+    }
+
+    .step h2 {
+      color: #08acb8;
+      font-size: 1.3em;
+      margin-top: 0;
+    }
+
+    .step p {
+      margin: 10px 0;
+      line-height: 1.8;
+      font-size: 1rem;
+    }
+
+    .step img {
+      width: 100%;
+      max-height: 350px;
+      object-fit: contain;
+      border-radius: 12px;
+      margin-top: 15px;
+      border: 1px solid #ddd;
+    }
+
+    a {
+      color: #1d4ed8;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .back-top {
+      text-align: center;
+      margin-top: 40px;
+    }
+
+    .back-top a {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #08acb8;
+      color: #fff;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+    }
+
+    .back-top a:hover {
+      background-color: #08acb8;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @media (max-width: 600px) {
+      .step {
+        padding: 15px;
+      }
+
+      h1 {
+        font-size: 1.5em;
+      }
+
+      .step h2 {
+        font-size: 1.1em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>របៀបប្រើប្រាស់ Gmail "Send As"</h1>
+
+    <!-- Step 1 -->
+    <div class="step">
+      <h2>ជំហានទី 1: ចូលទៅកាន់ Gmail</h2>
+      <p>បើក Browser របស់អ្នក ហើយចូលទៅ <a href="https://mail.google.com" target="_blank">https://mail.google.com</a></p>
+      <img src="img2/1.PNG" alt="ចូល Gmail">
+       <img src="img2/2.PNG">
+    </div>
+
+    <!-- Step 2 -->
+    <div class="step">
+      <h2>ជំហានទី 2: ចូលទៅកាន់ការកំណត់ (Settings)</h2>
+      <p>ចុចរូប齿轮 (Gear icon) នៅខាងលើស្តាំ → ចុច "See all settings"</p>
+      <img src="img2/3.PNG" alt="See all settings">
+    </div>
+
+    <!-- Step 3 -->
+    <div class="step">
+      <h2>ជំហានទី 3: ទៅប៊ូតុង "Accounts and Import"</h2>
+      <p>ក្នុងផ្ទាំង Settings → ចុច tab "Accounts and Import"</p>
+      <img src="img2/4.PNG" alt="Accounts and Import tab">
+    </div>
+
+    <!-- Step 4 -->
+    <div class="step">
+      <h2>ជំហានទី 4: បន្ថែមអាសយដ្ឋានអ៊ីមែលថ្មី</h2>
+      <p>រកមើលជម្រើស "Send mail as" → ចុច "Add another email address"</p>
+      <img src="img2/5.PNG" alt="Add another email address">
+    </div>
+
+    <!-- Step 5 -->
+    <div class="step">
+      <h2>ជំហានទី 5: បញ្ចូលព័ត៌មានអាសយដ្ឋាន</h2>
+      <p>បញ្ចូលឈ្មោះ និងអាសយដ្ឋានអ៊ីមែលដែលអ្នកចង់ផ្ញើជំនួស → ចុច Next Step</p>
+      <img src="img2/6.PNG" alt="Input Send As Info">
+      <img src="img2/7.PNG" >
+    </div>
+
+    <!-- Step 6 -->
+    <div class="step">
+      <h2>ជំហានទី 6: បញ្ចូល SMTP Server</h2>
+      <p>បញ្ចូលព័ត៌មាន SMTP server របស់អ៊ីមែលដែលអ្នកបន្ថែម។ ប្រសិនបើជារាជការ សូមស្នើ IT ដើម្បីយល់ពីព័ត៌មាន Server/Port និងពាក្យសម្ងាត់។</p>
+     
+    </div>
+
+    <!-- Step 7 -->
+    <div class="step">
+      <h2>ជំហានទី 7: Verify និងបញ្ចប់</h2>
+      <p>Gmail នឹងផ្ញើលេខកូដទៅអ៊ីមែលដែលបានបន្ថែម។ ចូលអ៊ីមែលនោះ → ចម្លងលេខកូដ → បញ្ចូលវានៅក្នុង Gmail ដើម្បីបញ្ចប់។</p>
+      <img src="img2/8.PNG" alt="Verification code input">
+    </div>
+
+    <!-- Step 8 -->
+    <div class="step">
+      <h2>ជំហានទី 8: ជ្រើសអាសយដ្ឋានដែលចង់ប្រើ Send As</h2>
+      <p>អ្នកអាចជ្រើសឲ្យ Gmail ប្រើអ៊ីមែលថ្មីជាដើមតាម Default ឬ ជ្រើសក្នុងពេល Compose។</p>
+      <img src="img2/9.PNG" alt="Choose Send As">
+    </div>
+
+    <!-- Step 9 -->
+    <div class="step">
+      <h2>ជំហានទី 9: សាកល្បងផ្ញើអ៊ីមែល</h2>
+      <p>ចុច Compose → ជ្រើសអាសយដ្ឋាន "From" ដែលអ្នកបានបន្ថែម → ផ្ញើទៅអ្នកទទួល ដើម្បីសាកល្បង។</p>
+      <img src="img2/10.PNG" alt="Test sending">
+    </div>
+
+    <div class="back-top">
+      <a href="#">⬆ ត្រឡប់ទៅលើកំពូល</a>
+    </div>
+  </div>
+</body>
+</html>
